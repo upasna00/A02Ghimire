@@ -11,7 +11,7 @@ select order
 select payment type
 Total cost is provided using simple jquery
 
-#Contact
+#About
 Contact Form 
 social media links
 
